@@ -1,0 +1,1 @@
+# <a href="https://www.rust-lang.org/">Rust</a> Cheatsheet <img width="50em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/1280px-Rustacean-orig-noshadow.svg.png">
